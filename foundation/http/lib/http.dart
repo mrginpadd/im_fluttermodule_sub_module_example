@@ -1,3 +1,4 @@
 library http;
 
-export 'src/HttpManager.dart';
+export 'src/http_manager.dart';
+export 'src/http_config.dart';
